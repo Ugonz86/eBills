@@ -21,15 +21,14 @@ On eBills, users can:
 ### Installation
 ```
 In command line, run the following:
-1.Clone this repository
-    $ git clone https://github.com/Ugonz86/capstone2.git
+1.Clone this repository and open in commandline
+    $ git clone https://github.com/Ugonz86/eBills.git
 2. Install dependencies
     $ npm install
 3. Run program
     $ npm run start
 4. Open webpage
     $ In your browser, this should load: http://localhost:3000/
-5. You may skip these steps and click on the following link:
 ```
 
 ### Known Bugs
